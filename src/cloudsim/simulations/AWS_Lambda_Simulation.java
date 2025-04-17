@@ -12,7 +12,7 @@ import java.util.*;
 public class AWS_Lambda_Simulation {
     
     // Warm start duration in seconds
-    private static final double WARM_START_DURATION = 6.0;
+    private static final double WARM_START_DURATION = 5.0;
     
     public static void main(String[] args) {
         try {
